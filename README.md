@@ -5,6 +5,7 @@
 - No complaining, get to work.
 - Cry about it
 - Rest is how to compile the game
+- If anything is older, it is because I have not changed that stuff yet
 
 # Info
 
