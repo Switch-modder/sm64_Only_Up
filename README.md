@@ -7,6 +7,12 @@
 - Rest is how to compile the game
 - If anything is older, it is because I have not changed that stuff yet
 
+# Only Up Credits
+- Salena (Leader of most of the project and for the original frame)
+- Paramansh (Playtesting and suggestions)
+- Dia (Mostly for painting the project)
+- Raj-jyot (I mostly compiled and playtested this game to perfection)
+
 # Info
 
 - This repo contains a full decompilation of Super Mario 64 of the following releases: Japan (jp), North America (us), Europe (eu), Shindou (sh) and iQue Player (cn).
