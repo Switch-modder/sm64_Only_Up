@@ -1,5 +1,8 @@
 #Only Up in Mario 64, (AKA Only Up 64)
-- This was mainly created in order to do the best in a design project
+- This was mainly created in order to do the best in a design project.
+- You need to provide your own rom file in order to actually see everything.
+- All the instructions are listed down below for you to all follow.
+- No complaining, get to work.
 
 # Super Mario 64
 
