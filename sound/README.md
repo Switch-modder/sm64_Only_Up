@@ -1,3 +1,6 @@
+# Only up stuff
+-Added only up music
+
 Sound in SM64 consists of three parts: samples, sound banks, and sequences.
 
 Samples represent raw sound data, given as AIFF files with a custom ADPCM-based
