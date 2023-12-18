@@ -3,9 +3,10 @@
 - You need to provide your own rom file in order to actually see everything.
 - All the instructions are listed down below for you to all follow.
 - No complaining, get to work.
-
-  
-
+-
+-
+- 
+-
 # Super Mario 64
 
 - This repo contains a full decompilation of Super Mario 64 of the following releases: Japan (jp), North America (us), Europe (eu), Shindou (sh) and iQue Player (cn).
